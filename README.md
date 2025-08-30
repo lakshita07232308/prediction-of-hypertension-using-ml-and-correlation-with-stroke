@@ -8,13 +8,6 @@ Our findings demonstrate that ML-based approaches can achieve high accuracy in h
 
 ---
 
-## Authors
-- Utkarsh Mishra  
-- Lakshita Setia  
-- Under the guidance of **Dr. Subhashini R, Associate Professor, School of CSE, VIT**
-
----
-
 ## Dataset
 We used datasets from the **Behavioral Risk Factor Surveillance System (BRFSS) 2015** (CDC, USA):
 
@@ -80,5 +73,3 @@ We trained and evaluated the following models:
 
 ---
 
-
----
